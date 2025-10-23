@@ -6,5 +6,5 @@ Canlı Uygulama
 
 Uygulamayı buradan ziyaret edebilirsiniz:
 
-**Web Sitesi:** [Canlı Uygulamaya Git](https://kitap-listesi.vercel.app/)
+**Web Sitesi:** [Web Sitemi Ziyaret Et](https://kitap-listesi.vercel.app/)
 
