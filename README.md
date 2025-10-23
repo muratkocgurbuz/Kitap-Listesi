@@ -6,6 +6,5 @@ Canlı Uygulama
 
 Uygulamayı buradan ziyaret edebilirsiniz:
 
-https://kitap-listesi.vercel.app/
-
+Web Sitesi:[https://kitap-listesi.vercel.app/]
 
